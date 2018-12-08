@@ -2,7 +2,9 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://albertjgonzalez.github.io/React-Calculator/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "mathjs": "^5.3.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
